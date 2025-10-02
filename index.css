@@ -1,3 +1,30 @@
 body{
 background-color: yellow;
 }
+h1{color: green;
+text-align:center;
+}
+h2{color: red;
+text-align:right;
+}
+h3{color:violet;
+    text-align:left;
+}
+b{ 
+color:aqua;
+}
+strong{
+    color:chocolate;
+}
+sub{color:darkred
+}
+sub{
+    color:rosybrown;
+}
+sup{
+    color:chrtreuse;
+}
+mark{
+    color:white;
+    background-color: blue;
+}
